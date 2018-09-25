@@ -2,7 +2,8 @@
 layout: post
 title:  "코틀린 부트캠프 (몰랐던 개념들)"
 date:   2018-09-25 15:49:57 +0900
-categories: Learning Tech
+categories: learning-tech
+tags: [kotlin, bootcamp]
 ---
 
 Udacity 감사합니다. [Kotlin bootcamp!](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) :)
