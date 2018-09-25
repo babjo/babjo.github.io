@@ -17,15 +17,20 @@ title: (Nothing)
 email: ch.lee.3477@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   하나씩 만들어보려고합니다.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https//babjo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  babjo
+linkedin_username: babjo
+
+disqus:
+  shortname: babjo
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
