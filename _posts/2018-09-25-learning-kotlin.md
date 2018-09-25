@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "코틀린 부트캠프 (몰랐던 개념들)"
+title:  "코틀린 정리 (몰랐던 개념들 위주로)"
 date:   2018-09-25 15:49:57 +0900
 categories: learning-tech
 tags: [kotlin, bootcamp]
