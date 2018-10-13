@@ -272,6 +272,8 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
 이제 여기까지하면 저희가 기본적으로 원했던 `/`, `/home`은 보안 없이 들어가고 보안이 필요한 경우 `/login`에서 로그인하고 `/hello` 페이지를 접근하는 것 그리고 로그아웃하는 것까지 모두 다 만들어봤어요. 여기까지입니다. 감사합니다.
 
+완성된 코드는 여기에 올려놨어요:) https://github.com/babjo/spring-security-tutorial
+
 #### 참고
 - https://www.youtube.com/watch?v=97lYN9YW03Q
 - https://spring.io/guides/gs/securing-web
